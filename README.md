@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **satyamkumarsaw30@gmail.com**
   
-- 🌱 Technical Skills **Android Native & Flutter**
+- 🌱 Technical Skills **Android Native, Java Spring Boot & Flutter**
 
 - ⚡ Fun fact **I love reading books**
 
