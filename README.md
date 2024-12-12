@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **I love reading books**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stymsaw&show_icons=true&locale=en&layout=compact" alt="stymsaw" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stymsaw&show_icons=true&locale=en" alt="stymsaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stymsaw&" alt="stymsaw" /></p>
